@@ -1,0 +1,6 @@
+{
+    "options": {
+        "algorithm": "HS256",
+        "expiresIn": "1h"
+    }
+}
